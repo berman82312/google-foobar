@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# VS Code editor settings
+.vscode/
+
+# Private message
+messages.txt
